@@ -1,5 +1,6 @@
 ---
 title: People
+published: true
 ---
 
 ## Robin Burke
