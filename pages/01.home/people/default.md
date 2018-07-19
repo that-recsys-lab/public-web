@@ -11,13 +11,13 @@ Robin Burke is a Professor in the Department of Information Science at the Unive
 
 # PhD Students
 
-## Himan Abdollahpouri
+### Himan Abdollahpouri
 Himan Abdollahpouri is a PhD student at the University of Colorado, Boulder, and a member of That Recommender Systems Lab.
 
-## Masoud Mansoury
+### Masoud Mansoury
 Masoud Mansoury is a PhD student at the University of Colorado, Boulder, and a member of That Recommender Systems Lab.
 
-## Nasim Sonboli
+### Nasim Sonboli
 Nasim Sonboli is a PhD student at the University of Colorado, Boulder, and a member of That Recommender Systems Lab.
 
 # Others
