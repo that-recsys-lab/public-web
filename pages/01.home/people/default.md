@@ -6,8 +6,8 @@ published: true
 
 # Faculty
 
+![Robin Burke photo](rb-head-shot.jpg?resize=400,400&classes=right)
 ### Robin Burke
-![Robin Burke photo](rb-head-shot.jpg?classes=right)
 Robin Burke is a Professor in the Department of Information Science at the University of Colorado, Boulder, and the founder and director of That Recommender Systems Lab. 
 
 # PhD Students
