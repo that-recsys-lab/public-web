@@ -1,6 +1,14 @@
 ---
 title: 'Automating Recommender Systems Experimentation with librec-auto'
+summary:
+    format: short
 ---
+
+ ### Abstract
+
+Recommender systems research often requires the creation and execution of large numbers of algorithmic experiments to determine the sensitivity of results to the values of various hyperparameters. Existing recommender systems platforms fail to provide a basis for systematic experimentation of this type. In this paper, we describe librec-auto, a wrapper for the well-known LibRec library, which provides an environment that supports automated experimentation.
+
+===
 
 ### Reference
 Mansoury, Masoud, Robin Burke, Aldo Ordonez-Gauger and Xavier Sepulveda. "Automating Recommender Systems Experimentation with librec-auto." *Proceedings of the 12th ACM Conference on Recommender Systems*. ACM, 2018.
@@ -17,6 +25,4 @@ Mansoury, Masoud, Robin Burke, Aldo Ordonez-Gauger and Xavier Sepulveda. "Automa
 }
 ```
 
-### Abstract
 
-Recommender systems research often requires the creation and execution of large numbers of algorithmic experiments to determine the sensitivity of results to the values of various hyperparameters. Existing recommender systems platforms fail to provide a basis for systematic experimentation of this type. In this paper, we describe librec-auto, a wrapper for the well-known LibRec library, which provides an environment that supports automated experimentation.
