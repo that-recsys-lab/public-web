@@ -21,6 +21,10 @@ Masoud Mansoury is a PhD student at the University of Colorado, Boulder, and a m
 ### Nasim Sonboli
 Nasim Sonboli is a PhD student at the University of Colorado, Boulder, and a member of That Recommender Systems Lab.
 
+# Affiliates
+
+[comment]: # (Possibly Bamshad and John here. And also Weiwen. )
+
 # Others
 
 ### Morgan Sylvester
