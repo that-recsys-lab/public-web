@@ -4,7 +4,7 @@ summary:
     format: short
 ---
 
- #### Abstract
+#### Abstract
 
 Recommender systems research often requires the creation and execution of large numbers of algorithmic experiments to determine the sensitivity of results to the values of various hyperparameters. Existing recommender systems platforms fail to provide a basis for systematic experimentation of this type. In this paper, we describe librec-auto, a wrapper for the well-known LibRec library, which provides an environment that supports automated experimentation.
 
