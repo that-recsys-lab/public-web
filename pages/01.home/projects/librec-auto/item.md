@@ -1,5 +1,5 @@
 ---
-title: 'librec-auto'
+title: 'Project: librec-auto'
 summary:
     format: short
 ---
