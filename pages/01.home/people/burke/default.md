@@ -30,7 +30,7 @@ This is a research seminar that will explore the space of personalized informati
 
 ### Contact
 
-Prospective PhD students, please see [this FAQ file](prospective-faq.md).
+Prospective PhD students, please see [this FAQ file](phd-faq.md).
 
 robin(dot)burke(at)colorado(dot)edu
 
