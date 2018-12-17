@@ -1,16 +1,17 @@
 ---
-title: People
+title: Robin Burke
 media_order: rb-head-shot.jpg
+slug: burke
 published: true
 ---
 
 # Robin Burke
 
-![Robin Burke photo](rb-head-shot.jpg?resize=120,150&classes=left)
+![Robin Burke photo](../rb-head-shot.jpg?resize=120,150&classes=left)
 
 Robin Burke a professor in the Department of Information (and Computer Science, by courtesy) at the University of Colorado, Boulder and the director of That Recommender Systems Lab. He was previously co-director of the Web Intelligence Lab in the School of Computing at DePaul University. 
 
-See [complete CV](burke-cv-2019-01.pdf).
+See [complete CV](burke-cv-2019-01.pdf?target=_blank).
 
 ### Research
 
