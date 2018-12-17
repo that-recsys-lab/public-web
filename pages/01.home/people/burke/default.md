@@ -9,7 +9,9 @@ published: true
 
 ![Robin Burke photo](../rb-head-shot.jpg?resize=120,150&classes=left)
 
-Robin Burke a professor in the Department of Information (and Computer Science, by courtesy) at the University of Colorado, Boulder and the director of That Recommender Systems Lab. He was previously co-director of the Web Intelligence Lab in the School of Computing at DePaul University. 
+I am a professor in the Department of Information (and Computer Science, by courtesy) at the University of Colorado, Boulder and the director of That Recommender Systems Lab. I was previously co-director of the Web Intelligence Lab in the School of Computing at DePaul University. 
+
+I earned my PhD in Computer Science in 1993 at Northwestern University's Institute for the Learning Sciences, under the supervision of Dr. Roger Schank, and before DePaul, worked at the University of Chicago, the University of California Irvine, California State University Fullerton, and the long-gone dot-com startup Verb.
 
 See [complete CV](burke-cv-2019-01.pdf?target=_blank).
 
@@ -22,11 +24,17 @@ I conduct research mostly in recommender systems and personalization, more gener
 
 I am also interested in practical problems of conducting recommender systems research and achieving replicable results. 
 
+In addition, I have research interests in the digital humanities and am part of the <a href="http://dh.depaul.press/reading-chicago">Reading Chicago Reading</a> research group.
+
 ### Teaching
 
-Spring 2019: INFO 4871/5871:  	
+**Spring 2019: INFO 4871/5871**  	
 
 This is a research seminar that will explore the space of personalized information access applications known as recommender systems. This class will introduce students to a range of approaches for building recommender systems including collaborative, content-based, knowledge-based,and hybrid methods. Students will also explore a variety of applications for recommendation including consumer products, music, social media, and online advertising. The course will also examine controversies surrounding recommendation, including Pariser’s “filter bubble”, the deployment of personalization as a tool for electoral manipulation, and questions of algorithmic bias.
+
+### RecSys
+
+I have been conducting research in the area of recommender systems since the mid-1990s, and have been involved with the [ACM Recommender Systems Conference](http://recsys.acm.org/) since its founding. Since 2017, I am the chair of the steering committee for the conference.
 
 ### Contact
 
@@ -34,10 +42,10 @@ Prospective PhD students, please see [this FAQ file](phd-faq).
 
 robin(dot)burke(at)colorado(dot)edu
 
-Department of Information Science
-Technology Learning Center, Rm 219
-1045 18th Street, UCB 315
-Boulder, CO 80309
+- Department of Information Science
+- Technology Learning Center, Rm 219
+- 1045 18th Street, UCB 315
+- Boulder, CO 80309
 
 (No phone yet, sorry!)
 
