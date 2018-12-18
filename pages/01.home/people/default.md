@@ -30,4 +30,4 @@ Nasim Sonboli is a PhD student at the University of Colorado, Boulder, and a mem
 # Others
 
 ### Morgan Sylvester
-Morgan Sylvester created the lab logo and other graphic assets for TRSL. Visit their web store at [need etsy link].
+Morgan Sylvester created the lab logo and other graphic assets for TRSL. [Visit their web store.](https://www.etsy.com/es/shop/Morexpression)
