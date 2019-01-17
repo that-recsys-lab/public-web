@@ -8,7 +8,7 @@ published: true
 
 ![Robin Burke photo](rb-head-shot.jpg?resize=120,150&classes=left)
 ### Robin Burke
-Robin Burke is a Professor in the Department of Information Science at the University of Colorado, Boulder, and the founder and director of That Recommender Systems Lab. 
+Robin Burke is a Professor in the Department of Information Science at the University of Colorado, Boulder, and the founder and director of That Recommender Systems Lab. [More info...](burke)
 
 # PhD Students
 
@@ -30,4 +30,4 @@ Nasim Sonboli is a PhD student at the University of Colorado, Boulder, and a mem
 # Others
 
 ### Morgan Sylvester
-Morgan Sylvester created the lab logo and other graphic assets for TRSL. Visit their web store at [need etsy link].
+Morgan Sylvester created the lab logo and other graphic assets for TRSL. [Visit their web store.](https://www.etsy.com/es/shop/Morexpression)
