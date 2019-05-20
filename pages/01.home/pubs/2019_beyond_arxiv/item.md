@@ -9,6 +9,10 @@ Recommender systems are personalized information access applications; they are u
 
 ===
 
+#### Download
+
+https://arxiv.org/abs/1905.01986
+
 #### Reference
 Abdollahpouri, Himan, et al. "Beyond Personalization: Research Directions in Multistakeholder Recommendation." arXiv preprint arXiv:1905.01986 (2019).
 
