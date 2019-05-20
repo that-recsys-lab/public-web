@@ -19,7 +19,7 @@ Mansoury, Masoud, Robin Burke, Aldo Ordonez-Gauger and Xavier Sepulveda. "Automa
   title={Automating Recommender Systems Experimentation with librec-auto},
   author={Mansoury, Masoud and Burke, Robin and Ordo{\~{n}}ez-Gauger, Aldo and Sepulveda, Xavier},
   booktitle={Proceedings of the Twelfth ACM Conference on Recommender Systems},
-  pages={to appear},
+  pages={500--501},
   year={2018},
   organization={ACM}
 }
