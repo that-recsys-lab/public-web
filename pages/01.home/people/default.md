@@ -18,8 +18,10 @@ Himan Abdollahpouri is a PhD student at the University of Colorado Boulder, and 
 
 
 ![Nasim Sonboli photo](Nasim.jpeg?resize=120,150&classes=left)
+
 ### Nasim Sonboli
 Nasim (na-seem) Sonboli is an Information Science Ph.D. student and a member of That Recommender Systems Lab, working under supervision of Prof. Robin Burke, a pioneer in the field of recommender systems. She’s working on the fairness, accountability and transparency of recommendation algorithms and has several publications in ACM FAT* Conference and ACM Recommender Systems Conference.
+
 She got her master’s degree with distinction in Predictive Analytics from DePaul University in Chicago in 2016 and a bachelor’s degree in Computer Science from Karaj University in Iran. Prior to getting her master’s degree, she had worked in industry for almost two years as a back-end developer.
 
 
