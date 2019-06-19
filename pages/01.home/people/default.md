@@ -28,6 +28,16 @@ She got her master’s degree with distinction in Predictive Analytics from DePa
 ### Masoud Mansoury
 Masoud Mansoury is a PhD student at the University of Colorado, Boulder, and a member of That Recommender Systems Lab.
 
+# Undergraduate Research Assitants
+
+![Bum Kim photo](Bum.jpg?resize=120,150&classes=left)
+### Bum Kim
+Bum Soo Kim is a Computer Science undergraduate student at the University of Colorado Boulder, and a member of That Recommender Systems Lab. His interests include recommender systems and the ethical considerations behind them, and programming languages.
+
+![Olwyn Doyle photo](Olwyn.JPG?resize=120,150&classes=left)
+### Olwyn Doyle
+Olwyn Doyle is an undergraduate student at the University of Colorado Boulder, and a member of That Recommender Systems Lab. She is studying Computer Science and Political Science, and she is fascinated by recommender systems as they are an extraordinary intersection between the two fields.
+
 # Affiliates
 
 [comment]: # (Possibly Bamshad and John here. And also Weiwen. )
