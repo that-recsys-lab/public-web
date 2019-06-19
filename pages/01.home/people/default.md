@@ -28,7 +28,7 @@ She got her master’s degree with distinction in Predictive Analytics from DePa
 ### Masoud Mansoury
 Masoud Mansoury is a PhD student at the University of Colorado, Boulder, and a member of That Recommender Systems Lab.
 
-# Undergraduate Research Assitants
+# Undergraduate Research Assistants
 
 ![Bum Kim photo](Bum.jpg?resize=120,150&classes=left)
 ### Bum Kim
