@@ -38,7 +38,8 @@ Bum Soo Kim is a Computer Science undergraduate student at the University of Col
 ### Olwyn Doyle
 Olwyn Doyle is an undergraduate student at the University of Colorado Boulder, and a member of That Recommender Systems Lab. She is studying Computer Science and Political Science, and she is fascinated by recommender systems as they are an extraordinary intersection between the two fields.
 
-![Florencia Cabral photo](Florencia.jpg)
+
+![Florencia Cabral photo](Florencia.jpeg)
 ### Florencia Cabral
 Florencia Cabral is a student in the Applied Computer Science Post-Baccalaureate program at the University of Colorado, Boulder. Prior to joining That Recommender Systems Lab, Florencia obtained a Bachelor of Arts degree in Psychology from Dickinson College, and worked in international development for 4 years, managing technology innovation projects in Latin America. Her research interests include the impact of recommender systems on fairness and equality, social computing, and machine learning applications.
 
