@@ -44,7 +44,8 @@ Olwyn Doyle is an undergraduate student at the University of Colorado Boulder, a
 ### Florencia Cabral
 Florencia Cabral is a student in the Applied Computer Science Post-Baccalaureate program at the University of Colorado, Boulder. Prior to joining That Recommender Systems Lab, Florencia obtained a Bachelor of Arts degree in Psychology from Dickinson College, and worked in international development for 4 years, managing technology innovation projects in Latin America. Her research interests include the impact of recommender systems on fairness and equality, social computing, and machine learning applications.
 
-# Affiliates
+
+<!-- # Affiliates -->
 
 [comment]: # (Possibly Bamshad and John here. And also Weiwen. )
 
