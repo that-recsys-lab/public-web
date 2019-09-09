@@ -41,7 +41,7 @@ Olwyn Doyle is an undergraduate student at the University of Colorado Boulder, a
 
 ![Zijun Liu photo](ZijunLiu.jpg?resize=120,150&classes=left)
 ### Zijun Liu
-Zijun Liu is a computer science undergraduate student at the University of Colorado at Boulder, and a member of THAT RECOMMENDER SYSTEMS LAB. His research interests is machine learning, data science. Especially, he is interested in recommender system. He used to be Course Assistant as CSCI3308 Software Development and CSCI3155 Principle of Programming Language. 
+Zijun Liu is a computer science undergraduate student at the University of Colorado at Boulder, and a member of That Recommender Systems Lab. His research interests is in machine learning, data science and mainly recommender systems. He used to be a Course Assistant for CSCI3308 Software Development and CSCI3155 Principle of Programming Language courses. 
 
 <!-- # Previous Research Assistants -->
 
