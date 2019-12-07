@@ -1,5 +1,11 @@
+---
+title: 'Tutorial at FAT* Conference 2020'
+summary:
+    format: short
+---
 
-# Hands-on Tutorial: Experimentation with fairness-aware recommendation using librec-auto
+# Tutorial
+## Experimentation with fairness-aware recommendation using librec-auto
 
 The field of machine learning fairness has developed some
 well-understood metrics, methodologies, and data sets for
@@ -70,7 +76,7 @@ algorithms and creating new fairness metrics for such experiments.
 
 ## Instructions for participants
 
-For performing simple experiments during the tutorial session, participants will need to have:
+For performing sample experiments during the tutorial session, participants will need to have:
 - a machine running Linux, MacOS, or Windows
 - ability to run Java libraries (version >= 1.7)
 - Anaconda with Python version >= 3.6
