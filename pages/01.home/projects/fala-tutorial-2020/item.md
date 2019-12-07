@@ -52,11 +52,15 @@ with Michael Ekstrand and Fernando Diaz (RecSys
 2019). He has led the librec-auto project since its
 inception.
 
-- <b>Masoud Mansoury </b> is a PhD student at the Eindhoven
+![Masoud Mansoury photo](../people/MasoudMansoury.jpeg?resize=120,150&classes=left)
+- <b>Masoud Mansoury</b> is a PhD student at the Eindhoven
 University of Technology under the direction of Mykola
 Pechenizkiy. His research interests include fairness-aware recommender systems, machine learning, and social network analysis. Masoud has been one of the core contributors to the librec-auto project and presented on the
 project, most recently at the 1st Interdisciplinary Workshop on Algorithm Selection and Meta-Learning in
 Information Retrieval (AMIR 2019).
+
+## Contributors
+- <b>Nasim Sonboli</b> is a PhD student in the Department of Information Science at the University of Colorado, Boulder, and a member of That Recommender Systems Lab. She’s working on the fairness, accountability and transparency of recommendation algorithms and has several publications in ACM FAT* Conference and ACM Recommender Systems Conference. She is one of the core contributors to the librec-auto and LibRec projects, especially in the area of fairness-aware metrics and algorithms.
 
 ## Target audience
 
