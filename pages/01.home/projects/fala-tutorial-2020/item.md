@@ -85,3 +85,8 @@ For performing sample experiments during the tutorial session, participants will
 - ability to run Java libraries (version >= 1.7)
 - Anaconda with Python version >= 3.6
 - ability to install new Python libraries 
+
+## Slides
+
+[Preliminary tutorial slides](https://drive.google.com/file/d/112QFPRPSovvp_JjN1kQEwI047xfY7U23/view?usp=sharing)
+
