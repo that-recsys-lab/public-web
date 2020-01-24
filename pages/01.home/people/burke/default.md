@@ -28,9 +28,20 @@ In addition, I have research interests in the digital humanities and am part of 
 
 ### Teaching
 
+**Fall 2019: INFO 4871/5871**
+
+Data Science for Information Science: Research in information science often requires gathering, managing, analyzing, processing, and
+understanding complex data. This course introduces tools from computing and statistics to develop
+students' skills in the following areas: (1) data wrangling, the process of acquiring, cleaning, reshaping,
+and/or sampling data; (2) data exploration and analysis, the extraction of meaningful signals in large,
+noisy datasets, especially data consisting of unstructured or semi-structured text and relational
+(network-oriented) data; (3) predictive modeling, the creation of models to support inferences and
+decisions based on data; and (4) communication, the summarization and visualization of findings to be
+shared with others.
+
 **Spring 2019: INFO 4871/5871**  	
 
-This is a research seminar that will explore the space of personalized information access applications known as recommender systems. This class will introduce students to a range of approaches for building recommender systems including collaborative, content-based, knowledge-based,and hybrid methods. Students will also explore a variety of applications for recommendation including consumer products, music, social media, and online advertising. The course will also examine controversies surrounding recommendation, including Pariser’s “filter bubble”, the deployment of personalization as a tool for electoral manipulation, and questions of algorithmic bias.
+Recommender Systems: This is a research seminar that will explore the space of personalized information access applications known as recommender systems. This class will introduce students to a range of approaches for building recommender systems including collaborative, content-based, knowledge-based,and hybrid methods. Students will also explore a variety of applications for recommendation including consumer products, music, social media, and online advertising. The course will also examine controversies surrounding recommendation, including Pariser’s “filter bubble”, the deployment of personalization as a tool for electoral manipulation, and questions of algorithmic bias.
 
 ### RecSys
 
@@ -43,9 +54,9 @@ Prospective PhD students, please see [this FAQ file](phd-faq).
 robin(dot)burke(at)colorado(dot)edu
 
 - Department of Information Science
-- Technology Learning Center, Rm 219
+- Technology Learning Center, Rm 115
 - 1045 18th Street, UCB 315
 - Boulder, CO 80309
+- 303-735-1772
 
-(No phone yet, sorry!)
 
