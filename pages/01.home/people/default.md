@@ -27,7 +27,7 @@ She got her master’s degree with distinction in Predictive Analytics from DePa
 ### Jessie Smith
 Jessie Smith (Jess) is a PhD student in the Information Science department at CU Boulder, and a member of That Recommender Systems Lab. Jess has an undergraduate degree from California Polytechnic State University in Software Engineering. Prior to beginning her PhD program, she researched machine learning fairness, global data privacy frameworks, the unintended consequences of rapid tech growth, and open data frameworks for fighting corruption. Jess loves to blog about her research to encourage authenticity and transparency, as well as inform others of the importance of data science and tech ethics.
 
-# Undergraduate Research Assistants
+# Research Assistants
 
 ![Zijun Liu photo](ZijunLiu.jpg?resize=120,150&classes=left)
 ### Zijun Liu
