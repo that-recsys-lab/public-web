@@ -82,11 +82,13 @@ algorithms and creating new fairness metrics for such experiments.
 
 For performing sample experiments during the tutorial session, participants will need to have:
 - a machine running Linux, MacOS, or Windows
-- ability to run Java libraries (version >= 1.7)
+- ability to run Java libraries (version >= 1.8)
 - Anaconda with Python version >= 3.6
 - ability to install new Python libraries 
+- a text editor
 
 ## Slides
 
-[Preliminary tutorial slides](https://drive.google.com/file/d/112QFPRPSovvp_JjN1kQEwI047xfY7U23/view?usp=sharing)
+- [Tutorial slides](https://docs.google.com/presentation/d/1Ld9mY9zMuQ8veXhzJ40cvzfa4uMBW0py66cfJ-q01_Q/edit?usp=sharing)
+- [Handout for attendees](https://docs.google.com/document/d/1ybazjee50e41pVwoN4CrEuRvcKfmDwQ-ZiGLrwmEUcM/edit?usp=sharing)
 
