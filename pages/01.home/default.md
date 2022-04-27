@@ -14,4 +14,6 @@ We invite applications for funded PhD positions in the area of recommender syste
 
 Some members of TRSL were formerly part of the Center for Web Intelligence in the [School of Computing](https://www.cdm.depaul.edu/about/Pages/School-of-Computing.aspx) at [DePaul University](http://www.depaul.edu/). 
 
+![NSF-logo](img/NSF_Logo.png)
+
 
