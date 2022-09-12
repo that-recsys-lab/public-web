@@ -17,6 +17,6 @@ Some members of TRSL were formerly part of the Center for Web Intelligence in th
 #### Sponsorship and collaboration
 
 [![NSF-logo|150x150](img/NSF_Logo.png)](http://nsf.gov)
-[![Leafly-logo|120x120](img/leafly_logo.png)](https://www.leafly.com/strains/lists)
+[![Leafly-logo](img/leafly_logo.png)](https://www.leafly.com/strains/lists)
 
 
