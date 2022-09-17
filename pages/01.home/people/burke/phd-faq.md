@@ -16,6 +16,8 @@ On this page, I try to provide useful information for people in your situation. 
 
 - **Can I get funding?** Generally, the department will not accept PhD students unless it has a way to fund them either through TAships or grant funding.
 
+- **What do I need to prepare a good application?** The most important parts of the application are usually the research statement and the letters of recommendation. I don't expect you to have a full research plan already (and if you do, that is usually not a good sign). The statement should lay out the questions that you are interested in exploring, the methods you would need to learn and apply and how a PhD fits into your overall career arc. It should be clear why my lab and CU Boulder is a good fit for your intended work and what you can bring to the position. Your letters of recommendation should speak to your ability to do independent research work.
+
 - **How can I improve my chances of getting admitted?** Advising a PhD student involves tremendous personal investment on my part. I am looking for PhD students that are very likely to be successful in working on the projects that I work on. You will need:
 	- Excellent math and programming skills.
 	- Very good to excellent communication skills.
