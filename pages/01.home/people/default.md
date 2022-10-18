@@ -23,7 +23,7 @@ Amanda Aird is a first year PhD student in the Information Science Department at
 
 # Research Assistants 
 
-![Shreyas Kadedoki photo](shreyas_kadekodi.jpg?resize=120,150&classes=left)
+![Shreyas Kadedoki photo](shreyas-kadekodi.jpg?resize=120,150&classes=left)
 ### Shreyas Kadedoki
 Shreyas Kadekodi is a Computer Science Masters student at the University of Colorado Boulder and has been a part of That Recommender Systems Lab since he was an undergraduate student. His research focuses on fairness-aware recommendation algorithms.
 
@@ -57,20 +57,11 @@ Henry Dyer is an undergraduate student studying Applied Mathematics at the Unive
 ![Himan Abdollahpouri photo](Himan.jpg?resize=120,150&classes=left)
 ### Himan Abdollahpouri
 
-[comment]: # (Himan Abdollahpouri is a PhD student at the University of Colorado Boulder, and a member of That Recommender Systems Lab. He received his BSc and MSc degrees from Bu-Ali Sina University and Iran University of Science Technology, respectively. His research interests include but not limited to recommender systems, machine learning and social computing. He is currently working on multistakeholder recommender systems where the interests of different stakeholders should be taken into account when generating recommendations. He has also done two internships at Pandora Media Inc. in Summer 2017 and 2018 as a data scientist and has several publications at top conferences such as RecSys and UMAP. )
-
 ![Nasim Sonboli photo](Nasim.jpeg?resize=120,150&classes=left)
 ### Nasim Sonboli
-
-[comment]: # (Nasim (na-seem) Sonboli is Ph.D. student in the Department of Information Science at the University of Colorado, Boulder, and a member of That Recommender Systems Lab, advised by Prof. Robin Burke, a pioneer in the field of recommender systems. She’s working on the fairness, accountability and transparency of recommendation algorithms and has several publications in ACM FAT* Conference and ACM Recommender Systems Conference.
-
-She got her master’s degree with distinction in Predictive Analytics from DePaul University in Chicago in 2016 and a bachelor’s degree in Computer Science, focusing on Software Engineering from Karaj University in Iran. Prior to getting her master’s degree, she had worked in industry for almost two years as a back-end developer. )
-
+  
 ![Veena Prasad photo](veena.jpg?resize=120,150&classes=left)
 ### Veena Prasad
-
-[comment]: # (Veena Prasad is a Computer Science Master student at the University of Colorado Boulder. She completed a Bachelor of Engineering in Computer Science from M.S. Ramaiah Institute of Technology, Bangalore, India ( Department Fourth Rank with a CGPA of 9.65/10). She worked as a Software Engineer at Philips India Limited, Bangalore in the Magnetic Resonance Imaging Healthcare Business Unit for 2 years. Her research interests include Machine Learning, Big Data Architecture and Analysis, and Natural Language Processing. In That Recommender Systems Lab, she is working on a survey the fairness properties of recommendation algorithms. )
-
 
 ![Zijun Liu photo](ZijunLiu.jpg?resize=120,150&classes=left)
 ### Zijun Liu
