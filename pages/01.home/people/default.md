@@ -57,17 +57,27 @@ Henry Dyer is an undergraduate student studying Applied Mathematics at the Unive
 ![Himan Abdollahpouri photo](Himan.jpg?resize=120,150&classes=left)
 ### Himan Abdollahpouri
 
+Himan is a former student in That Recommender System Lab.
+
 ![Nasim Sonboli photo](Nasim.jpeg?resize=120,150&classes=left)
 ### Nasim Sonboli
+
+Nasim is a former student in That Recommender System Lab.
   
 ![Veena Prasad photo](veena.jpg?resize=120,150&classes=left)
 ### Veena Prasad
 
+Veena is a former student in That Recommender System Lab.
+
 ![Zijun Liu photo](ZijunLiu.jpg?resize=120,150&classes=left)
 ### Zijun Liu
 
+Zijun is a former student in That Recommender System Lab.
+
 ![Shruthi Sridharan photo](shruthi.png?resize=120,150&classes=left)
 ### Shruthi Sridharan
+
+Shruthi is a former student in That Recommender System Lab.
 
 
 
