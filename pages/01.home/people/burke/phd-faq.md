@@ -8,6 +8,14 @@ published: true
 
 If you're reading this, you are probably interested in becoming a PhD student at the University of Colorado Boulder and working with me and my research group. Thanks for your interest! 
 
+### NOTE: Not accepting new students for Fall 2024
+
+I find myself at capacity in terms of my ability to advise and support PhD students. Therefore, I almost certainly will **not** be accepting any new PhD students in Fall 2024. 
+
+### Previous advice
+
+**This advice remains here for legacy purposes but is not relevant for the 2023-2024 admissions cycle.**
+
 On this page, I try to provide useful information for people in your situation. Note that I will probably **not** respond to emails with resumes or requests for consideration as a student. I get many, many such inquiries and I cannot respond to them all. Put your effort into crafting an excellent application instead.
 
 - **Should I send you an email telling you about my great ideas and background?** Generally, no. I get many such emails and tend not to read them or put much weight on them. Some students send many, many such emails to everyone in a particular field or school. I do not have the time to respond. You should put your effort into crafting an excellent official application. [CU Boulder Graduate School application](https://www.colorado.edu/graduateschool/admissions/how-to-apply). The Information Science department deadline is usually the beginning of December for the following Fall quarter. The Computer Science department deadline is usually mid-December. (Specific deadlines for each year are posted [here](https://www.colorado.edu/graduateschool/admissions/deadlines). I do advise students in both programs.
