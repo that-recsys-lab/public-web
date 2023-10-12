@@ -13,20 +13,38 @@ I am a professor in the Department of Information (and Computer Science, by cour
 
 I earned my PhD in Computer Science in 1993 at Northwestern University's Institute for the Learning Sciences, under the supervision of Dr. Roger Schank, and before DePaul, worked at the University of Chicago, the University of California Irvine, California State University Fullerton, and the long-gone dot-com startup Verb.
 
-See [complete CV](burke-cv-2022-04.pdf?target=_blank).
+See [complete CV](burke-cv-2023-09.pdf?target=_blank).
 
 ### Research
 
-I conduct research mostly in recommender systems and personalization, more generally. Recently, I have been interested in two closely-related topics:
+I conduct research mostly in recommender systems and personalization, more generally. Recently, I have been interested in three closely-related topics:
 
 - **Multistakeholder recommendation**, which refers to a recommendation application in which parties other than just the end user need to be considered in computing recommendation outcomes. If that sounds a bit shady, it is perhaps because we are accustomed to think of recommender systems as reflecting only user interests and to do otherwise seems to undermine the whole enterprise. However, there are many situations (for example, health, education, etc.) where the system may have its own ethically-sound reasons for preferring certain recommendations over others. 
 - **Fairness-aware recommendation** is a sub-class of multistakeholder recommendation in which the system has a concern for delivering results that meet some criterion of fairness. That criterion may exist relative to the users consuming recommendations _C-Fairness_ or relative to the providers of items being recommended _P-Fairness_ or both. 
+- **Community governance for recommender systems**, which asks the question of how recommendation can be designed and operated in a way that is amenable to governance by the community for whom it operates, and how input from various stakeholders can be incorporated to guide recommender system behavior. 
 
 I am also interested in practical problems of conducting recommender systems research and achieving replicable results. 
 
 In addition, I have research interests in the digital humanities and am part of the <a href="http://dh.depaul.press/reading-chicago">Reading Chicago Reading</a> research group.
 
 ### Teaching
+
+** Fall 2023: INFO 5612**
+
+Recommender Systems
+
+**Fall 2022: INFO 5604**
+
+Applied Machine Learning
+
+**Fall 2021: INFO 4613**
+
+Network Science
+
+**Spring 2021: INFO 4871/CSCI 4830**
+
+Special topics: Bias and Fairness in Artificial Intelligence
+
 
 **Fall 2019: INFO 4871/5871**
 
@@ -45,7 +63,7 @@ Recommender Systems: This is a research seminar that will explore the space of p
 
 ### RecSys
 
-I have been conducting research in the area of recommender systems since the mid-1990s, and have been involved with the [ACM Recommender Systems Conference](http://recsys.acm.org/) since its founding. Since 2017, I am the chair of the steering committee for the conference.
+I have been conducting research in the area of recommender systems since the mid-1990s, and have been involved with the [ACM Recommender Systems Conference](http://recsys.acm.org/) since its founding. I was the chair of the steering committee for the conference from 2017 to 2020.
 
 ### Contact
 
@@ -53,8 +71,7 @@ Prospective PhD students, please see [this FAQ file](phd-faq).
 
 robin(dot)burke(at)colorado(dot)edu
 
-- Department of Information Science
-- Technology Learning Center, Rm 115
+- Department of Information Science, Rm 115
 - 1045 18th Street, UCB 315
 - Boulder, CO 80309
 - 303-735-1772
