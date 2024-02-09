@@ -29,9 +29,19 @@ In addition, I have research interests in the digital humanities and am part of 
 
 ### Teaching
 
+I will not be teaching in Fall 2024 or Spring 2025.
+
+** Spring 2024: INFO 6500**
+
+Information Science Seminar
+
 ** Fall 2023: INFO 5612**
 
 Recommender Systems
+
+** Fall 2023: INFO 6500**
+
+Information Science Seminar
 
 **Fall 2022: INFO 5604**
 
