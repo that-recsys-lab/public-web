@@ -13,7 +13,7 @@ I am a professor in the Department of Information (and Computer Science, by cour
 
 I earned my PhD in Computer Science in 1993 at Northwestern University's Institute for the Learning Sciences, under the supervision of Dr. Roger Schank, and before DePaul, worked at the University of Chicago, the University of California Irvine, California State University Fullerton, and the long-gone dot-com startup Verb.
 
-See [complete CV](burke-cv-2023-09.pdf?target=_blank).
+See [complete CV](burke-cv-2024-10.pdf?target=_blank).
 
 ### Research
 
@@ -77,7 +77,7 @@ I have been conducting research in the area of recommender systems since the mid
 
 ### Contact
 
-Prospective PhD students, please see [this FAQ file](phd-faq).
+Prospective PhD students, please note that I am not accepting new students for Fall 2025. Consult [this FAQ file](phd-faq) for additional information.
 
 robin(dot)burke(at)colorado(dot)edu
 
