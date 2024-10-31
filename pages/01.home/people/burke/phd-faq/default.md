@@ -6,6 +6,8 @@ published: true
 
 # For prospective PhD students
 
+**NOTE: I am not accepting new students for Fall 2025.**
+
 If you're reading this, you are probably interested in becoming a PhD student at the University of Colorado Boulder and working with me and my research group. Thanks for your interest! 
 
 On this page, I try to provide useful information for people in your situation. Note that I will probably **not** respond to emails with resumes or requests for consideration as a student. I get many, many such inquiries and I cannot respond to them all. Put your effort into crafting an excellent application instead.
