@@ -67,7 +67,7 @@ Nasim graduated from the University of Colorado, Boulder in 2022 with a PhD in I
 ![Veena Prasad photo](veena.jpg?resize=120,150&classes=left)
 ### Veena Prasad
 
-Veena is a former student in That Recommender System Lab.
+Veena is a former student in That Recommender System Lab. <br/><br/></br>
 
 ![Zijun Liu photo](ZijunLiu.jpg?resize=120,150&classes=left)
 ### Zijun Liu
