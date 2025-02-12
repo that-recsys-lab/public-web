@@ -57,12 +57,12 @@ Henry Dyer is an undergraduate student studying Applied Mathematics at the Unive
 ![Himan Abdollahpouri photo](Himan.jpg?resize=120,150&classes=left)
 ### Himan Abdollahpouri
 
-Himan is a former student in That Recommender System Lab.
+Himan graduated from the University of Colorado, Boulder in 2020 with a PhD in Information Science. His dissertation was titled "Popularity Bias in Recommendation: A Multi-stakeholder Perspective." He is now a researcher at Spotify.
 
 ![Nasim Sonboli photo](Nasim.jpeg?resize=120,150&classes=left)
 ### Nasim Sonboli
 
-Nasim is a former student in That Recommender System Lab.
+Nasim graduated from the University of Colorado, Boulder in 2022 with a PhD in Information Science. Her dissertation was titled "Controlling the Fairness / Accuracy Tradeoff in Recommender Systems." She is currently a post-doctoral researcher at Brown University. 
   
 ![Veena Prasad photo](veena.jpg?resize=120,150&classes=left)
 ### Veena Prasad

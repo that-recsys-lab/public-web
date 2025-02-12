@@ -1,5 +1,5 @@
 ---
-title: 'Project: Reranking Optimiztaion'
+title: 'Project: Reranking Optimization'
 summary:
     format: short
 ---
