@@ -15,4 +15,4 @@ Moreover, SMROES fosters a space for **creative algorithmic design**, allowing t
 ##### Related Publications
 
 **Decoupled Recommender Systems: Exploring Alternative Recommender Ecosystem Designs**
-*Anas Buhayh, Elizabeth McKinnie ,and Robin Burke In RecSoGood Workshop at eighteenth ACM Conference on Recommender Systems, 2024*
+*Anas Buhayh, Elizabeth McKinnie ,and Robin Burke In RecSoGood Workshop at the 18th ACM Conference on Recommender Systems, 2024*
