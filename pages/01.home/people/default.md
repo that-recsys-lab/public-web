@@ -22,7 +22,7 @@ Anas Buhayh is a PhD student in the information science department at CU Boulder
 
 ![Aishwarya Satwani photo](current_students/aishwarya_satwani.jpg?resize=120,150&classes=left)
 ### Aishwarya Satwani
-Aishwarya Satwani is a second-year PhD student at CU Boulder. Originally from Oman, she received her Bachelor's in Computer Science Engineering from B.M.S. College of Engineering, Bangalore, and worked at Walmart Labs for three years as a full-stack SDE. She currently contributes to two main projects: JEDI News, where she conducts interviews with journalists to understand and formalize their role in recommendation processes, and PopRocks, where she focuses on developing experimental methods for information infrastructure. Beyond academics, Aishwarya enjoys kickboxing and oil painting.
+Aishwarya Satwani is a second-year PhD student at CU Boulder. Originally from Oman, she received her Bachelor's in Computer Science Engineering from B.M.S. College of Engineering, Bangalore, and worked at Walmart Labs for three years as a full-stack SDE. She currently contributes to two main projects: JEDI News, where she conducts interviews with journalists to understand and formalize their role in recommendation processes, and POPROX, where she focuses on developing experimental methods for information infrastructure. Beyond academics, Aishwarya enjoys kickboxing and oil painting.
 
 ![Joshua Paup photo](current_students/joshua_paup.jpg?resize=120,150&classes=left)
 ### Joshua Paup
