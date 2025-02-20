@@ -28,7 +28,7 @@ Aishwarya Satwani is a second-year PhD student at CU Boulder. Originally from Om
 ### Joshua Paup
 Joshua Paup is a second-year PhD student at CU Boulder. Originally from Colorado Springs, Joshua completed his BA in computer science and mathematics in the summer of 2021 and his MS in information science here at CU in the spring of 2023. He currently contributes to the CORGI project, developing recommendation systems and algorithmic community governance on the social media platform Mastodon. His other research interests include content moderation, human-quantum computer interactions, and the role of recommendation systems in framing online discourse around warfare. Outside of the lab, Joshua enjoys spending time with his four cats -- Jessie, Jackie, Jamie, and Jessie. 
 
-![Elizabeth McKinnie photo](current_students/elizabeth_mckinnie.jpg?resize=120,150&classes=left)
+![Elizabeth McKinnie photo](current_students/elizabeth_mickinnie.jpg?resize=120,150&classes=left)
 ### Elizabeth McKinnie
 Elizabeth McKinnie is a second-year PhD student at CU Boulder. Originally from Seattle, Washington, she holds degrees in Computer Science and Applied Mathematics from the University of Washington. Her current research spans multiple projects, including leading research on comparative explanation processes and contributing to the SMORES project, where she focuses on writing, brainstorming, and code development. Her professional experience includes three years of software engineering at Microsoft. Outside the lab, Elizabeth enjoys playing rugby and crocheting.
 
