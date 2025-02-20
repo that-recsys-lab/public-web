@@ -60,9 +60,9 @@ Nasim graduated from the University of Colorado, Boulder in 2022 with a PhD in I
 
 # Former Research Assistants
 
-- ![Veena Prasad photo](past_students/veena.jpg?resize=120,150&classes=left) Veena Prasad (MSCS)
-- ![Zijun Liu photo](past_students/ZijunLiu.jpg?resize=120,150&classes=left) Zijun Liu (MSCS)
-- ![Shruthi Sridharan photo](past_students/shruthi.png?resize=120,150&classes=left) Shruthi Sridharan (MSCS)
+- ![Veena Prasad photo](past_students/veena.jpg?resize=60,75&classes=left) Veena Prasad (MSCS)
+- ![Zijun Liu photo](past_students/ZijunLiu.jpg?resize=60,75&classes=left) Zijun Liu (MSCS)
+- ![Shruthi Sridharan photo](past_students/shruthi.png?resize=60,75&classes=left) Shruthi Sridharan (MSCS)
 
 ### Henry Dyer
 
@@ -77,6 +77,8 @@ Nasim graduated from the University of Colorado, Boulder in 2022 with a PhD in I
 
 ![Shreyas Kadedoki photo](past_students/shreyas-kadekodi.jpg?resize=120,150&classes=left)
 ### Shreyas Kadedoki
+
+
 
 
 [comment]: # (Possibly Bamshad and John here. And also Weiwen. )
