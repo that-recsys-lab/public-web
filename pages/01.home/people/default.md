@@ -60,26 +60,16 @@ Nasim graduated from the University of Colorado, Boulder in 2022 with a PhD in I
 
 # Former Research Assistants
 
-- ![Veena Prasad photo](past_students/veena.jpg?resize=60,75&classes=left) Veena Prasad (MSCS)
-- ![Zijun Liu photo](past_students/ZijunLiu.jpg?resize=60,75&classes=left) Zijun Liu (MSCS)
-- ![Shruthi Sridharan photo](past_students/shruthi.png?resize=60,75&classes=left) Shruthi Sridharan (MSCS)
-
-### Henry Dyer
-
-![Trevor Ward photo](past_students/trevor_ward.jpeg?resize=120,150&classes=left)
-### Trevor Ward
-
-![Paresha Farastu photo](past_students/paresha_farastu.jpg?resize=120,150&classes=left)
-### Paresha Farastu
-
-![Joshua Sun photo](past_students/josh_sun.jpg?resize=120,150&classes=left)
-### Joshua Sun
-
-![Shreyas Kadedoki photo](past_students/shreyas-kadekodi.jpg?resize=120,150&classes=left)
-### Shreyas Kadedoki
-
-
-
+- Masters
+	- Veena Prasad (MS-CS)
+	- Zijun Liu (MS-CS)
+	- Shruthi Sridharan (MS-CS)
+	- Joshua Sun (MS-CS)
+	- Paresha Farastu (MS-CS)
+- Undergraduate
+	- Henry Dyer (BS-CS)
+	- Trevor Ward (BS-INFO)
+	- Shreyas Kadekodi (BS-CS)
 
 [comment]: # (Possibly Bamshad and John here. And also Weiwen. )
 
