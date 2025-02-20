@@ -16,8 +16,8 @@ Robin Burke is a Professor in the Department of Information Science at the Unive
 ### Amanda Aird
 Amanda Aird is a third-year PhD student at CU Boulder. Originally from Reno, Nevada, Amanda holds an MS in Business Analytics from the University of Iowa and a BA in Economics from the University of Nevada, Las Vegas. Her research focuses on algorithmic fairness in recommender systems, with particular emphasis on reranking recommendations to optimize for both consumer and provider-side fairness at individual and group levels. As the graduate student lead on the SCRUFF project, she manages experimental design and implementation. She enjoys hiking, baking (especially bread and naan), and traveling.
 
-![Anas Buhayah photo](current_students/anas_buhayah.jpg?resize=120,150&classes=left)
-### Anas Buhaya
+![Anas Buhayah photo](current_students/anas_buhayh.jpg?resize=120,150&classes=left)
+### Anas Buhayh
 Anas Buhayh is a PhD student in the information science department at CU Boulder. A Fulbright alumnus from Libya, Anas holds a master's degree in Information Management from Central Michigan University and a bachelor's degree in Automation from the College of Computer Technologies in Tripoli. He currently leads research across multiple projects including CORGI, where he works on social media recommendation systems for Mastodon, and SMORES, where he investigates the implementation of multiple purpose-specific recommender systems. His research focuses on developing responsible and governable AI systems, with particular emphasis on alternative architectures for recommender systems. His professional background includes work with the World Health Organization and the International Rescue Committee. Outside of research, Anas enjoys programming, playing guitar, and staying active.
 
 ![Aishwarya Satwani photo](current_students/aishwarya_satwani.jpg?resize=120,150&classes=left)
