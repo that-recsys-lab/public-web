@@ -44,38 +44,26 @@ Meysam Varasteh is a second-year PhD student at CU Boulder. Originally from Kurd
 ### Emanuele Rimini
 ### Tyler Thornley
 
-# Affiliates
-### None Currently
-
 # Former PhD Students
 
 ![Jessie Smith photo](past_students/Jessie.JPG?resize=120,150&classes=left)
 ### Jessie Smith
-Jessie is a former information science student in That Recommender System Lab
+Jessie graduated from the University of Colorado, Boulder in 2024 with a PhD in Information Science, co-advised by Prof. Robin Burke and Prof. Casey Fiesler. Her dissertation was titled "Perspectives on Best Practices When Operationalizing Machine Learning Fairness for Recommender Systems". She is now a researcher at Spotify.
 
 ![Himan Abdollahpouri photo](past_students/Himan.jpg?resize=120,150&classes=left)
 ### Himan Abdollahpouri
-Himan graduated from the University of Colorado, Boulder in 2020 with a PhD in Information Science. His dissertation was titled "Popularity Bias in Recommendation: A Multi-stakeholder Perspective." He is now a researcher at Spotify.
+Himan graduated from the University of Colorado, Boulder in 2020 with a PhD in Information Science, advised by Prof. R Burke. His dissertation was titled "Popularity Bias in Recommendation: A Multi-stakeholder Perspective." He is now a researcher at Spotify.
 
 ![Nasim Sonboli photo](past_students/Nasim.jpeg?resize=120,150&classes=left)
 ### Nasim Sonboli
-Nasim graduated from the University of Colorado, Boulder in 2022 with a PhD in Information Science. Her dissertation was titled "Controlling the Fairness / Accuracy Tradeoff in Recommender Systems." She is currently a post-doctoral researcher at Brown University. 
-  
-![Veena Prasad photo](past_students/veena.jpg?resize=120,150&classes=left)
-### Veena Prasad
-Veena is a former student in That Recommender System Lab. <br/><br/>
-
-![Zijun Liu photo](past_students/ZijunLiu.jpg?resize=120,150&classes=left)
-### Zijun Liu
-Zijun is a former student in That Recommender System Lab.<br/><br/>
-
-![Shruthi Sridharan photo](past_students/shruthi.png?resize=120,150&classes=left)
-### Shruthi Sridharan
-Shruthi is a former student in That Recommender System Lab.<br/><br/>
+Nasim graduated from the University of Colorado, Boulder in 2022 with a PhD in Information Science, advised by Prof. Robin Burke. Her dissertation was titled "Controlling the Fairness / Accuracy Tradeoff in Recommender Systems." She is currently a post-doctoral researcher at Brown University. 
 
 # Former Research Assistants
 
-![Henry Dyer photo](past_students/henry_dyer.jpg?resize=120,150&classes=left)
+- ![Veena Prasad photo](past_students/veena.jpg?resize=120,150&classes=left) Veena Prasad (MSCS)
+- ![Zijun Liu photo](past_students/ZijunLiu.jpg?resize=120,150&classes=left) Zijun Liu (MSCS)
+- ![Shruthi Sridharan photo](past_students/shruthi.png?resize=120,150&classes=left) Shruthi Sridharan (MSCS)
+
 ### Henry Dyer
 
 ![Trevor Ward photo](past_students/trevor_ward.jpeg?resize=120,150&classes=left)
