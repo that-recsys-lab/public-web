@@ -36,13 +36,23 @@ Elizabeth McKinnie is a second-year PhD student at CU Boulder. Originally from S
 ### Meysam Verasteh
 Meysam Varasteh is a second-year PhD student at CU Boulder. Originally from Kurdistan, Iran, he holds degrees in Electrical Engineering from the Petroleum University of Technology and Tehran University in Iran. He specializes in recommender system explainability, focusing on developing and implementing models that provide comparative explanations for recommendations, empowering users to understand why certain items are recommended over others. When not conducting research, Meysam enjoys rock climbing, running, and cooking Persian and Turkish food.
 
-# Undergraduates
-
 # Research Assistants 
+
+![Andrew Nordstrom photo](research_assistants/andrew_nordstrom.jpg?resize=120,150&classes=left)
 ### Andrew Nordstrom
+Andrew Nordstrom: Andrew Nordstrom is an undergraduate researcher at CU Boulder, studying Mechanical Engineering with a minor in Data Science. He currently contributes to the CORGI project, working on front and backend development. His research interests lie at the intersection of mechanical engineering and computer science, with a focus on convolutional neural networks and generative AI. Originally from Bend, Oregon, Andrew enjoys climbing, cycling, and trail running.
+
+![Clement Canel photo](research_assistants/clement_canel.jpg?resize=120,150&classes=left)
 ### Clement Canel
+Clement Canel is an undergraduate majoring in Computer Science and minoring in Business. Originally from Seattle, Washington he is currently involved in the Simulator for Modular Recommendation EcoSystems (Smores) project. His focus is on addressing cold start problems and exploring profile portability within recommender systems. Outside of research, he enjoys skiing and coding in my free time.
+
+![Emanuele Rimini photo](research_assistants/emanuele_rimini.jpg?resize=120,150&classes=left)
 ### Emanuele Rimini
+Emanuele Rimini is a 3rd year undergraduate student, originally from San Diego, studying Computer Science and Sociology at CU Boulder. He currently contributes to the POPROX project, working on the newsletter system and helping researchers experiment with new recommendation systems. His interests lie on the intersection of recommendation algorithm development and their sociological impact. In his free time, Emanuele loves collecting and listening to records. He is fluent in Italian and is currently studying abroad in Italy.
+
+![Tyler Thornley photo](research_assistants/tyler_thornley.jpg?resize=120,150&classes=left)
 ### Tyler Thornley
+Tyler Thornley is an undergraduate majoring in Information Science and minoring in business. Originally from San Diego, California, Tyler is currently working on the Corgi project. He has an unhealthy obsession with coins.
 
 # Affiliates
 ### None Currently
