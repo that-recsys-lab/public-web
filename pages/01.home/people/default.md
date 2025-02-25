@@ -44,7 +44,7 @@ Andrew Nordstrom: Andrew Nordstrom is an undergraduate researcher at CU Boulder,
 
 ![Clement Canel photo](research_assistants/clement_canel.jpg?resize=120,150&classes=left)
 ### Clement Canel
-Clement Canel is an undergraduate majoring in Computer Science and minoring in Business. Originally from Seattle, Washington he is currently involved in the Simulator for Modular Recommendation EcoSystems (Smores) project. His focus is on addressing cold start problems and exploring profile portability within recommender systems. Outside of research, he enjoys skiing and coding in my free time.
+Clement Canel is an undergraduate majoring in Computer Science and minoring in Business. Originally from Seattle, Washington he is currently involved in the Simulator for Modular Recommendation EcoSystems (Smores) project. His focus is on addressing cold start problems and exploring profile portability within recommender systems. Outside of research, he enjoys skiing and coding in his free time.
 
 ![Emanuele Rimini photo](research_assistants/emanuele_rimini.jpg?resize=120,150&classes=left)
 ### Emanuele Rimini
