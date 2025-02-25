@@ -11,4 +11,4 @@ content:
     url_taxonomy_filters: true
 ---
 
-News from That Recommender Systems Lab
+# News from That Recommender Systems Lab
