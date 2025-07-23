@@ -13,7 +13,7 @@ I am a professor in the Department of Information (and Computer Science, by cour
 
 I earned my PhD in Computer Science in 1993 at Northwestern University's Institute for the Learning Sciences, under the supervision of Dr. Roger Schank, and before DePaul, worked at the University of Chicago, the University of California Irvine, California State University Fullerton, and the long-gone dot-com startup Verb.
 
-See [complete CV](burke-cv-2023-09.pdf?target=_blank).
+See [complete CV](burke-cv-2025-07.pdf?target=_blank).
 
 ### Research
 
