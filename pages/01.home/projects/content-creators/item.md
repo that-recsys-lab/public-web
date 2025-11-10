@@ -1,7 +1,7 @@
 ---
-title: "Project: Content Creators' Experiences with Recommmendation Analytics"
+title: "Project: Content Creators' Experiences with Recommendation Analytics"
 summary:
-    format: short
+format: short
 ---
 
 #### Join our paid research study
