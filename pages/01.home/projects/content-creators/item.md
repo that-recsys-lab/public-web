@@ -8,13 +8,9 @@ format: short
 Are you a monetized content creator on TikTok, Instagram, or YouTube? We want to know how social media platforms show you data about how your content is recommended, and what kinds of information you would like to know from the platform!
 
 Fill out the interest form to be considered for participation:
-<button name="button" onclick="https://tinyurl.com/trsl-content-creators">Link to Interest Form</button>
+[Link to Interest Form](https://tinyurl.com/trsl-content-creators){: .btn}
 
-<object data="flyer.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="flyer.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="flyer.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+!["Flyer for content creators project"](flyer.png)
 
 #### More Information
 ##### Who are we?
@@ -33,4 +29,5 @@ You will participate in a 30-90 minute interview over Zoom with one or more memb
 Please fill out the form below to let us know you’re interested! Elizabeth will get in touch with you to schedule your interview, or to let you know that we have enough participants. 
 
 Fill out the interest form to be considered for participation:
-<button name="button" onclick="https://tinyurl.com/trsl-content-creators">Link to Interest Form</button>
+[Link to Interest Form](https://tinyurl.com/trsl-content-creators){: .btn}
+
