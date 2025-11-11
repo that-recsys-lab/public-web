@@ -1,6 +1,6 @@
 ---
 title: "Project: Content Creators' Experiences with Recommendation Analytics"
-hero: flyer_header.png
+hero-image: flyer_header.png
 summary:
     format: long
 ---
