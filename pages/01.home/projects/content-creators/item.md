@@ -1,14 +1,15 @@
 ---
 title: "Project: Content Creators' Experiences with Recommendation Analytics"
+hero-image: flyer_header.png
 summary:
-format: short
+    format: long
 ---
 
 #### Join our paid research study
 Are you a monetized content creator on TikTok, Instagram, or YouTube? We want to know how social media platforms show you data about how your content is recommended, and what kinds of information you would like to know from the platform!
 
 Fill out the interest form to be considered for participation:
-[Link to Interest Form](https://tinyurl.com/trsl-content-creators){: .btn}
+[Link to Interest Form](https://tinyurl.com/trsl-content-creators)
 
 !["Flyer for content creators project"](flyer.png)
 
@@ -29,5 +30,5 @@ You will participate in a 30-90 minute interview over Zoom with one or more memb
 Please fill out the form below to let us know you’re interested! Elizabeth will get in touch with you to schedule your interview, or to let you know that we have enough participants. 
 
 Fill out the interest form to be considered for participation:
-[Link to Interest Form](https://tinyurl.com/trsl-content-creators){: .btn}
+[Link to Interest Form](https://tinyurl.com/trsl-content-creators)
 
