@@ -33,4 +33,4 @@ Fill out the interest form to be considered for participation:
 [Link to Interest Form](https://tinyurl.com/trsl-content-creators)
 
 ##### Questions?
-Email Elizabeth: elizabeth{dot}mckinnie{at}colorado{dot}edu
+Email: elizabeth{dot}mckinnie{at}colorado{dot}edu
