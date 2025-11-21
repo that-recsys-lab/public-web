@@ -32,3 +32,5 @@ Please fill out the form below to let us know you’re interested! Elizabeth wil
 Fill out the interest form to be considered for participation:
 [Link to Interest Form](https://tinyurl.com/trsl-content-creators)
 
+##### Questions?
+Email: elizabeth{dot}mckinnie{at}colorado{dot}edu
