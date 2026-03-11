@@ -50,10 +50,6 @@ Clement Canel is an undergraduate majoring in Computer Science and minoring in B
 ### Emanuele Rimini
 Emanuele Rimini is a 3rd year undergraduate student, originally from San Diego, studying Computer Science and Sociology at CU Boulder. He currently contributes to the POPROX project, working on the newsletter system and helping researchers experiment with new recommendation systems. His interests lie on the intersection of recommendation algorithm development and their sociological impact. In his free time, Emanuele loves collecting and listening to records. He is fluent in Italian and is currently studying abroad in Italy.
 
-![Tyler Thornley photo](research_assistants/tyler_thornley.jpg?resize=120,150&classes=left)
-### Tyler Thornley
-Tyler Thornley is an undergraduate majoring in Information Science and minoring in business. Originally from San Diego, California, Tyler is currently working on the Corgi project. He has an unhealthy obsession with coins.
-
 # Former PhD Students
 
 ![Jessie Smith photo](past_students/Jessie.JPG?resize=120,150&classes=left)
@@ -80,6 +76,7 @@ Nasim graduated from the University of Colorado, Boulder in 2022 with a PhD in I
 	- Henry Dyer (BS-CS)
 	- Trevor Ward (BS-INFO)
 	- Shreyas Kadekodi (BS-CS)
+	- Tyler Thornley
 
 [comment]: # (Possibly Bamshad and John here. And also Weiwen. )
 
