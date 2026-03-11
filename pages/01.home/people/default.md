@@ -42,7 +42,7 @@ Meysam Varasteh is a second-year PhD student at CU Boulder. Originally from Kurd
 ### Andrew Nordstrom
 ### Clement Canel
 ### Emanuele Rimini
-### Tyler Thornley
+
 
 # Former PhD Students
 
@@ -78,6 +78,7 @@ Nasim graduated from the University of Colorado, Boulder in 2022 with a PhD in I
 ![Shreyas Kadedoki photo](past_students/shreyas-kadekodi.jpg?resize=120,150&classes=left)
 ### Shreyas Kadedoki
 
+### Tyler Thornley
 
 
 
